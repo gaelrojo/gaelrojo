@@ -106,16 +106,16 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
   <a href="https://github.com/TU_USUARIO/ceneval-platform">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=ceneval-platform&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="CENEVAL Platform">
   </a>
-  <a href="https://github.com/TU_USUARIO/edusync">
+  <a href="https://github.com/gaelrojo/projectedu">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=edusync&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="EduSync">
   </a>
-  <a href="https://github.com/TU_USUARIO/polaris-dev">
+  <a href="https://github.com/gaelrojo/polaris-dev">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=polaris-dev&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="Polaris Dev">
   </a>
 </p>
 
 <p align="right">
-  <a href="https://github.com/TU_USUARIO?tab=repositories">
+  <a href="https://github.com/gaelrojo?tab=repositories">
     <img alt="All Repos" src="https://img.shields.io/badge/All%20Projects%20→-0d1117?style=flat-square&labelColor=161b22&color=30363d">
   </a>
 </p>
