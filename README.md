@@ -106,10 +106,10 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaelrojo&repo=ceneval-platform&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="CENEVAL Platform">
   </a>
   <a href="https://github.com/gaelrojo/projectedu">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=edusync&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="EduSync">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaelrojo&repo=projectedu&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="projectedu">
   </a>
-  <a href="https://github.com/gaelrojo/polaris-dev">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=polaris-dev&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="Polaris Dev">
+  <a href="https://github.com/gaelrojo/polaris-dev-landing">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaelrojo&repo=polaris-dev-landing&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="Polaris Dev">
   </a>
 </p>
 
@@ -125,21 +125,21 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
 
 <div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=algolia)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaelrojo&theme=algolia)
 
 </div>
 
 <div align="center">
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=algolia)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=algolia)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaelrojo&theme=algolia)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaelrojo&theme=algolia)
 
 </div>
 
 <div align="center">
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=algolia)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=algolia&utcOffset=-6)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaelrojo&theme=algolia)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaelrojo&theme=algolia&utcOffset=-6)
 
 </div>
 
@@ -147,14 +147,14 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true&rank_icon=percentile&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&hide_border=true&layout=compact&theme=algolia&bg_color=1e2b3c&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaelrojo&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true&rank_icon=percentile&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelrojo&hide_border=true&layout=compact&theme=algolia&bg_color=1e2b3c&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=algolia&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaelrojo&theme=algolia&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -164,9 +164,9 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-rojo-fuentes-39a4832b7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gael.rojofuentes@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/404_gael)
 
 </div>
 
