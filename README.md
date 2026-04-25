@@ -108,7 +108,9 @@ Mi meta es consolidar **Polaris Dev** como la empresa de software de referencia 
   <a href="https://github.com/gaelrojo/projectedu">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaelrojo&repo=projectedu&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="projectedu">
   </a>
- 
+  <a href="https://github.com/gaelrojo/polaris-dev-landing">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaelrojo&repo=polaris-dev-landing&theme=dark&bg_color=0D1017&title_color=58a6ff&hide_border=false&icon_color=58a6ff&show_icons=true&border_radius=6" alt="Polaris Dev">
+  </a>
 </p>
 
 <p align="right">
